@@ -30,3 +30,4 @@ while tries < max_tries:
         break
 else:
     print(f"💥 아쉽지만 실패! 정답은 {answer}였습니다.")
+#커밋 수정
