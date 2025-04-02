@@ -1,5 +1,8 @@
 # guess_game.py
 
+
+# 숫자 맞추기 게임
+
 import random
 
 answer = random.randint(1, 100)  # 1부터 100 사이 숫자 중 정답 설정
@@ -25,3 +28,4 @@ while True:
     else:
         print(f"정답입니다! 시도 횟수: {tries}번")
         break
+
